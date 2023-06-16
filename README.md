@@ -1,0 +1,2 @@
+# IBM_Employee_Attrition_prediction
+Using Logistic Regression
